@@ -1,7 +1,7 @@
 /* Large desktops and laptops */
 @media (min-width: 1200px) {
     .comment_bubble{
-        margin-left: 50px;
+        margin-right: -40px;
     }
 }
 
@@ -12,8 +12,8 @@
         font-size: 32px;
     }
     .comment_bubble{
-        margin-left: 30px;
         min-width: 600px;
+        margin-left: -50px;
     }   
     #hero{
         height: 600px;
@@ -40,7 +40,7 @@
     }
     .comment_bubble{
         min-width: 550px;
-        margin-left: 0px;
+        margin-left: -50px;
     }
     #hero{
         height: 500px;
@@ -76,8 +76,8 @@
         font-size: 25px;
     }
     .comment_bubble{
-        min-width: 400px;
-        margin-left: -25px;
+        min-width: 370px;
+        margin-left: -100px;
     }
     #hero{
         height: 500px;
@@ -132,8 +132,8 @@
         margin: 0;
     }
     .comment_bubble{
-        min-width: 200px;
-        margin: 0;  
+        min-width: 150px;
+        margin-left: -50px;
     }
     #hero{
         height: 400px;
